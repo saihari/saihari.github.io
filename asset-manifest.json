@@ -1,19 +1,18 @@
 {
   "files": {
-    "main.css": "/saihari.github.io/static/css/main.dde7cd8a.chunk.css",
-    "main.js": "/saihari.github.io/static/js/main.c458e187.chunk.js",
-    "main.js.map": "/saihari.github.io/static/js/main.c458e187.chunk.js.map",
-    "runtime-main.js": "/saihari.github.io/static/js/runtime-main.3af1e087.js",
-    "runtime-main.js.map": "/saihari.github.io/static/js/runtime-main.3af1e087.js.map",
-    "static/css/2.fae7bc47.chunk.css": "/saihari.github.io/static/css/2.fae7bc47.chunk.css",
-    "static/js/2.62817618.chunk.js": "/saihari.github.io/static/js/2.62817618.chunk.js",
-    "static/js/2.62817618.chunk.js.map": "/saihari.github.io/static/js/2.62817618.chunk.js.map",
+    "main.css": "/saihari.github.io/static/css/main.2234da1c.chunk.css",
+    "main.js": "/saihari.github.io/static/js/main.ff9b5232.chunk.js",
+    "main.js.map": "/saihari.github.io/static/js/main.ff9b5232.chunk.js.map",
+    "runtime~main.js": "/saihari.github.io/static/js/runtime~main.d086df74.js",
+    "runtime~main.js.map": "/saihari.github.io/static/js/runtime~main.d086df74.js.map",
+    "static/css/2.42d082cd.chunk.css": "/saihari.github.io/static/css/2.42d082cd.chunk.css",
+    "static/js/2.082150d5.chunk.js": "/saihari.github.io/static/js/2.082150d5.chunk.js",
+    "static/js/2.082150d5.chunk.js.map": "/saihari.github.io/static/js/2.082150d5.chunk.js.map",
     "index.html": "/saihari.github.io/index.html",
-    "precache-manifest.6ac5aeac25e69beaade0425f69d424f8.js": "/saihari.github.io/precache-manifest.6ac5aeac25e69beaade0425f69d424f8.js",
+    "precache-manifest.128c6729ed304cf496c4e041391353f2.js": "/saihari.github.io/precache-manifest.128c6729ed304cf496c4e041391353f2.js",
     "service-worker.js": "/saihari.github.io/service-worker.js",
-    "static/css/2.fae7bc47.chunk.css.map": "/saihari.github.io/static/css/2.fae7bc47.chunk.css.map",
-    "static/css/main.dde7cd8a.chunk.css.map": "/saihari.github.io/static/css/main.dde7cd8a.chunk.css.map",
-    "static/js/2.62817618.chunk.js.LICENSE.txt": "/saihari.github.io/static/js/2.62817618.chunk.js.LICENSE.txt",
+    "static/css/2.42d082cd.chunk.css.map": "/saihari.github.io/static/css/2.42d082cd.chunk.css.map",
+    "static/css/main.2234da1c.chunk.css.map": "/saihari.github.io/static/css/main.2234da1c.chunk.css.map",
     "static/media/Aws.png": "/saihari.github.io/static/media/Aws.27e8e879.png",
     "static/media/Docker.png": "/saihari.github.io/static/media/Docker.4c5ed894.png",
     "static/media/FastAi.png": "/saihari.github.io/static/media/FastAi.032507ed.png",
@@ -33,15 +32,7 @@
     "static/media/ScikitLearn.png": "/saihari.github.io/static/media/ScikitLearn.964a9ceb.png",
     "static/media/Selenium.png": "/saihari.github.io/static/media/Selenium.a3d75fee.png",
     "static/media/Tensorflow.jpg": "/saihari.github.io/static/media/Tensorflow.7a473fae.jpg",
-    "static/media/notifications.css": "/saihari.github.io/static/media/notification.c0d3c94c.eot",
-    "static/media/pic.jpg": "/saihari.github.io/static/media/pic.5424f801.jpg",
-    "static/media/trial.jpg": "/saihari.github.io/static/media/trial.96fdcc3e.jpg"
-  },
-  "entrypoints": [
-    "static/js/runtime-main.3af1e087.js",
-    "static/css/2.fae7bc47.chunk.css",
-    "static/js/2.62817618.chunk.js",
-    "static/css/main.dde7cd8a.chunk.css",
-    "static/js/main.c458e187.chunk.js"
-  ]
+    "static/media/icon.png": "/saihari.github.io/static/media/icon.4a47eff6.png",
+    "static/media/notifications.css": "/saihari.github.io/static/media/notification.c0d3c94c.eot"
+  }
 }

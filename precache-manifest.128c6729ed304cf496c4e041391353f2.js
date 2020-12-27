@@ -1,31 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a97553f2668aee68d93bea73233c8910",
+    "revision": "dbb81788858f87a3abb60ef13a97d128",
     "url": "/saihari.github.io/index.html"
   },
   {
-    "revision": "5120f031f59d3f05448c",
-    "url": "/saihari.github.io/static/css/2.fae7bc47.chunk.css"
+    "revision": "45870eb915f1a0be886c",
+    "url": "/saihari.github.io/static/css/2.42d082cd.chunk.css"
   },
   {
-    "revision": "345c30b3428866b00b8d",
-    "url": "/saihari.github.io/static/css/main.dde7cd8a.chunk.css"
+    "revision": "7a8dcba46762e8dc3917",
+    "url": "/saihari.github.io/static/css/main.2234da1c.chunk.css"
   },
   {
-    "revision": "5120f031f59d3f05448c",
-    "url": "/saihari.github.io/static/js/2.62817618.chunk.js"
+    "revision": "45870eb915f1a0be886c",
+    "url": "/saihari.github.io/static/js/2.082150d5.chunk.js"
   },
   {
-    "revision": "11a928b57aca5049fe950bf8bcde77c5",
-    "url": "/saihari.github.io/static/js/2.62817618.chunk.js.LICENSE.txt"
+    "revision": "7a8dcba46762e8dc3917",
+    "url": "/saihari.github.io/static/js/main.ff9b5232.chunk.js"
   },
   {
-    "revision": "345c30b3428866b00b8d",
-    "url": "/saihari.github.io/static/js/main.c458e187.chunk.js"
-  },
-  {
-    "revision": "f0f092e4a0cf9b61644f",
-    "url": "/saihari.github.io/static/js/runtime-main.3af1e087.js"
+    "revision": "72bfbbe5d9cbb0de5ca4",
+    "url": "/saihari.github.io/static/js/runtime~main.d086df74.js"
   },
   {
     "revision": "27e8e879248e8f2da86baffc53965715",
@@ -104,6 +100,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/saihari.github.io/static/media/Tensorflow.7a473fae.jpg"
   },
   {
+    "revision": "4a47eff6856e4d14e157f796e7851cc5",
+    "url": "/saihari.github.io/static/media/icon.4a47eff6.png"
+  },
+  {
     "revision": "0b4ac1dc75df35e169b70d7719afe4cc",
     "url": "/saihari.github.io/static/media/notification.0b4ac1dc.ttf"
   },
@@ -118,13 +118,5 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "c0d3c94cd6112550c51d7d1ed13b9da1",
     "url": "/saihari.github.io/static/media/notification.c0d3c94c.eot"
-  },
-  {
-    "revision": "5424f8016a2556acdd4e22f6e9113bc4",
-    "url": "/saihari.github.io/static/media/pic.5424f801.jpg"
-  },
-  {
-    "revision": "96fdcc3e8fc98cbd7a322297101e2d3f",
-    "url": "/saihari.github.io/static/media/trial.96fdcc3e.jpg"
   }
 ]);
